@@ -1,5 +1,5 @@
 // Customize with your friend's name
-function customizeName(friendName) {
+function customizeName(sai) {
     document.getElementById('birthday-title').textContent = `Happy Birthday, ${friendName}!`;
 }
 
